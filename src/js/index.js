@@ -1,0 +1,2 @@
+document.getElementById("miDiv").scrollIntoView({ behavior: "smooth", block: "start" }); // Parte superior
+document.getElementById("miDiv").scrollIntoView({ behavior: "smooth", block: "end" });   // Parte inferior

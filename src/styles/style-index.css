@@ -882,9 +882,9 @@ ul.timeline > li:before {
     }
 
     #nav_menu .poppins-thin{
-        font-size: 0.84em;
+        font-size: 0.75em;
         padding: 0;
-        margin: 10px 5px!important;
+        margin: 2px 5px!important;
         text-align: center;
     }
 
